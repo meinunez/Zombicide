@@ -1,5 +1,13 @@
 # Turno Enemigos
-<div style="display: flex; justify-content: space-between;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="display: flex; justify-content: space-between;">
         <div id="ps3">
             <p id="p" style="width: 45%;">
                 Una vez que todos los jugadores han activado a sus Superhéroes, 
@@ -28,4 +36,6 @@
             <img src=".gitbook/assets/foto-ainara.png" alt="Descripción de la imagen" style="max-width: 100%;">
         </div>
     </div>
+</body>
+</html>
 ***
