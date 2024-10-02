@@ -8,7 +8,7 @@
                 realizando los siguientes pasos en orden:
             </p>    
         
-            <p id="p1" style="display: flex; width: 45%;">    
+            <p id="p1" style="width: 45%;">    
                 <strong>Activar Enemigos:</strong>Todos los Enemigos en el tablero se activan y 
                 gastan sus Acciones para atacar a un Superhéroe o un Civil en su 
                 Zona, o para moverse hacia el Superhéroe o Civil más cercano si no 
@@ -17,7 +17,7 @@
                 Activación de Civiles en la página 21).
             </p>    
         
-            <p id="p2" style="display: flex; width: 45%;">
+            <p id="p2" style="width: 45%;">
                 <strong>Generar Enemigos:</strong>Después de que todas las Activaciones hayan 
                 terminado, nuevos Enemigos aparecen en todos los Puntos de Generación 
                 activos en el tablero.
