@@ -12,4 +12,13 @@
   </div>
 </div>
 
+<ul>
+        <li><b>Título:</b>Los Siete Maridos de Evelyn Hugo</li>
+        <li><b>Autor:</b>Taylor Jenkins Reid</li>
+        <li><b>Género:</b>Narrativa, ficción</li>
+        <li><b>Año de publicación:</b>2020</li>
+        <li><b>Editorial:</b>Umbriel</li>
+        <li><b>Número de páginas:</b>348</li>
+     </ul>
+
 ***
