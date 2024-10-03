@@ -1,19 +1,9 @@
 # Turno Enemigos
-               |Una vez que todos los jugadores han activado a sus Superhéroes,       |        |
-                la Fase de Jugador termina y comienza la Fase de Enemigo. Ningún 
-                jugador controla a los Enemigos. Ellos se controlan a sí mismos, 
-                realizando los siguientes pasos en orden:|
-        
-                Activar Enemigos:Todos los Enemigos en el tablero se activan y 
-                gastan sus Acciones para atacar a un Superhéroe o un Civil en su 
-                Zona, o para moverse hacia el Superhéroe o Civil más cercano si no 
-                están en una Zona con uno. Una vez que todos los Enemigos se hayan 
-                activado, cualquier Civil en el tablero también se activa (ver 
-                Activación de Civiles en la página 21).
-        
-                <strong>Generar Enemigos:</strong>Después de que todas las Activaciones hayan 
-                terminado, nuevos Enemigos aparecen en todos los Puntos de Generación 
-                activos en el tablero.
-    
-                <img src=".gitbook/assets/foto-ainara.png" alt="Descripción de la imagen" style="max-width: 100%;">
+
+
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| <p>Una vez que todos los jugadores hayan activado a sus Superhéroes, la Fase de Jugador termina y comienza la Fase de Enemigos. Ningún jugador controla a los Enemigos. Ellos actúan por sí mismos, realizando los siguientes pasos en orden:<br><br>1. <strong>Activar Enemigos</strong>: Todos los Enemigos en el tablero se activan y gastan sus Acciones para atacar a un Superhéroe o un Civil en su Zona, o moverse hacia el Superhéroe o Civil más cercano si no están en una Zona con uno. Una vez que todos los Enemigos se han activado, los Civiles en el tablero también se activan (ver Activación de Civiles en la página 21).<br><br>2. <strong>Generar Enemigos</strong>: Después de que todas las Activaciones han terminado, nuevos Enemigos aparecen en todos los Puntos de Generación activos en el tablero.</p> | <img src="../.gitbook/assets/image (2).png" alt="" data-size="original"> |
+
 ***
