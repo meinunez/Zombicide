@@ -30,5 +30,5 @@ Si la baraja de Generación se queda sin cartas, baraja todas las cartas de Gene
 
 La baraja de Generación presenta varios tipos de cartas de Generación:
 
-| **¡CARGA!**: Cuando un jugador roba una carta de Carga de Enemigos, los Enemigos colocados por esa carta realizan inmediatamente una Activación después de ser colocados. | <img src="../.gitbook/assets/image (4).png" alt="" data-size="original"> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **¡CARGA!**: Cuando un jugador roba una carta de Carga de Enemigos, los Enemigos colocados por esa carta realizan inmediatamente una Activación después de ser colocados. | <img src="../.gitbook/assets/image (16).png" alt="" data-size="original"> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
