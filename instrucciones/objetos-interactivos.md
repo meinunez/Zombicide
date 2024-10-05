@@ -1,2 +1,6 @@
+---
+icon: bullseye
+---
+
 # Objetos interactivos
 
