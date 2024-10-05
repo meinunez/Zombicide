@@ -1,5 +1,5 @@
 ---
-icon: biohazard
+icon: '1'
 description: 'Realizado por: Mei Núñez Sanz'
 cover: ../.gitbook/assets/titulo.png
 coverY: 0
