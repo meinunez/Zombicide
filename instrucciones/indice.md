@@ -1,6 +1,2 @@
----
-icon: indent
----
-
-# Índice
+# Misiones
 

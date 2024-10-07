@@ -7,6 +7,7 @@
   * [Reseñas](instrucciones/resenas.md)
   * [Básicos](instrucciones/basicos.md)
   * [Enemigos](instrucciones/enemigos.md)
+  * [Page](readme/page.md)
   * [Turno Jugador](instrucciones/turno-jugador.md)
   * [Turno Enemigos](instrucciones/turno-enemigos.md)
   * [Combate](instrucciones/combate.md)
