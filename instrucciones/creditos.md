@@ -1,7 +1,9 @@
 # Créditos
 
 **Diseño del Juego:**\
-Juan Pérez, Marta López
+
+
+
 
 **Basado en el Diseño Original de:**\
 Carlos García, Ana Fernández, y Luis Rodríguez, con conceptos adicionales de diseño por Pablo Torres.
