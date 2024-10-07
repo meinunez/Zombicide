@@ -9,13 +9,15 @@ description: Definiciones básicas Manual
 
 Antes de entrar en detalles, aquí hay algunas reglas generales que ayudarán a los jugadores:
 
-<table data-header-hidden><thead><tr><th width="278"></th><th></th></tr></thead><tbody><tr><td><strong>Definición</strong></td><td><strong>Descripción</strong></td></tr><tr><td><strong>Héroe</strong></td><td>Un personaje vivo y superpoderoso controlado por un jugador.</td></tr><tr><td><strong>Héroe Zombi</strong></td><td>Un personaje superpoderoso zombi generado y controlado por el juego para luchar contra los jugadores.</td></tr><tr><td><strong>Horda Zombie</strong></td><td>Un zombi genérico Caminante, Bruto o Corredor generado y controlado por el juego para cazar a los jugadores. Ten en cuenta que las expansiones pueden incluir tipos adicionales de Horda.</td></tr><tr><td><strong>Enemigo</strong></td><td>Este término se refiere a todas las diversas Hordas y Héroes Zombi.</td></tr><tr><td><strong>Zona</strong></td><td>En ubicaciones exteriores, una Zona es el área entre las marcas lineales (o las marcas lineales y el borde del tablero) y las paredes de los edificios. En ubicaciones interiores, cada Habitación es una Zona separada (delimitada por paredes).</td></tr></tbody></table>
+<figure><img src="../.gitbook/assets/1_imagen_básicos_.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/primera_imagen_básicos (2).png" alt=""><figcaption></figcaption></figure>
+<table data-header-hidden><thead><tr><th width="278"></th><th></th></tr></thead><tbody><tr><td><strong>Definición</strong></td><td><strong>Descripción</strong></td></tr><tr><td><strong>Héroe</strong></td><td>Un personaje vivo y superpoderoso controlado por un jugador.</td></tr><tr><td><strong>Héroe Zombi</strong></td><td>Un personaje superpoderoso zombi generado y controlado por el juego para luchar contra los jugadores.</td></tr><tr><td><strong>Horda Zombie</strong></td><td>Un zombi genérico Caminante, Bruto o Corredor generado y controlado por el juego para cazar a los jugadores. Ten en cuenta que las expansiones pueden incluir tipos adicionales de Horda.</td></tr><tr><td><strong>Enemigo</strong></td><td>Este término se refiere a todas las diversas Hordas y Héroes Zombi.</td></tr><tr><td><strong>Zona</strong></td><td>En ubicaciones exteriores, una Zona es el área entre las marcas lineales (o las marcas lineales y el borde del tablero) y las paredes de los edificios. En ubicaciones interiores, cada Habitación es una Zona separada (delimitada por paredes).</td></tr></tbody></table>
 
 
 
 ## <mark style="background-color:blue;">LINE OF SIGHT</mark>
+
+
 
 La Línea de Visión define si dos miniaturas en el tablero (Superhéroes, Enemigos, Civiles, etc.) pueden verse entre sí.
 
