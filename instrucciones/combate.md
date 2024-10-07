@@ -1,3 +1,7 @@
+---
+icon: '8'
+---
+
 # Combate
 
 ## Acciones de Ataque
