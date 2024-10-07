@@ -4,57 +4,61 @@ icon: '8'
 
 # Combate
 
-## Acciones de Ataque
+Acciones de Ataque
 
-Cuando un Superhéroe realiza una Acción de Ataque, utiliza su Ataque único, que se encuentra en su carta de Identificación, o el Ataque de cualquier carta de Equipo que haya recolectado. Todos los Ataques presentan la siguiente información:
+Cuando un Superhéroe realiza una Acción de Ataque, puede emplear su Ataque único, el cual está detallado en su carta de Identificación, o bien usar el Ataque de alguna carta de Equipo que haya obtenido. Cada Ataque contiene los siguientes elementos esenciales:
 
 ### Tipo de Ataque
 
-Los Ataques se dividen en 2 categorías: **Cuerpo a Cuerpo** o **a Distancia**. Los símbolos de Cuerpo a Cuerpo y a Distancia se usan para distinguir cada tipo. Algunas Habilidades o efectos pueden interactuar específicamente con estos tipos.
+Los Ataques se clasifican en dos tipos: **Cuerpo a Cuerpo** y **a Distancia**. Cada categoría se identifica con un símbolo único y ciertas Habilidades o efectos pueden interactuar de manera específica con ellas:
 
-* **Cuerpo a Cuerpo**: Los Ataques de Cuerpo a Cuerpo están identificados por el símbolo de Cuerpo a Cuerpo y solo se pueden usar contra objetivos en la misma Zona.
-* **A Distancia**: Los Ataques a Distancia están identificados por el símbolo de Ataque a Distancia y pueden atacar Enemigos en Zonas distantes dentro de la Línea de Visión.
+* **Cuerpo a Cuerpo**: Se reconocen por su símbolo correspondiente y solo pueden ejecutarse contra enemigos que se encuentren en la misma Zona que el Superhéroe.
+* **A Distancia**: Se indican con el símbolo de Ataque a Distancia y permiten atacar a Enemigos ubicados en otras Zonas, siempre y cuando estén dentro de la Línea de Visión del atacante.
+
+<figure><img src="../.gitbook/assets/combate2.png" alt="" width="271"><figcaption></figcaption></figure>
 
 ### Alcance
 
-Esto indica la distancia a las Zonas que el Ataque puede alcanzar.
+El Alcance determina la distancia a la que un Ataque puede llegar.
 
-* Un valor de 0 limita el Ataque de Cuerpo a Cuerpo a la misma Zona.
-* Los Ataques a Distancia generalmente muestran dos valores:
-  * **Alcance mínimo**: El Ataque no puede apuntar a Zonas más cercanas que el mínimo (generalmente 0, lo que permite atacar Enemigos en la misma Zona).
-  * **Alcance máximo**: No puede atacar Zonas más allá de su Alcance máximo.
+* **Cuerpo a Cuerpo**: Los ataques con Alcance 0 solo pueden dirigirse a objetivos que estén en la misma Zona que el atacante.
+* **A Distancia**: Estos ataques indican un **Alcance mínimo** (la distancia más cercana que se puede atacar) y un **Alcance máximo** (la distancia más lejana). Por ejemplo, un Alcance mínimo de 0 permite atacar Enemigos en la misma Zona, mientras que el Alcance máximo restringe las Zonas más distantes que pueden ser atacadas.
 
 ### Dados
 
-Cada Ataque indica el número base de dados que lanza, aunque se pueden añadir dados adicionales por otros efectos del juego (como gastar Poder).
+Cada Ataque especifica la cantidad base de dados que se deben lanzar. Es posible aumentar este número añadiendo dados adicionales a través de efectos del juego, como gastar Poder o aplicar otros modificadores.
+
+<figure><img src="../.gitbook/assets/dados.png" alt=""><figcaption></figcaption></figure>
 
 ### Precisión
 
-Cada resultado del dado que sea igual o superior al valor de Precisión del Ataque cuenta como 1 Impacto.
+La Precisión se refiere al valor que los dados deben alcanzar para que se contabilicen como un Impacto. Si el resultado de un dado es igual o superior al valor de Precisión del Ataque, ese dado se considera un éxito.
 
-### Resolución de un Ataque
+## Resolución de un Ataque
 
-Para resolver un Ataque, realiza los siguientes pasos en orden:
+Para resolver un Ataque, sigue estos pasos:
 
 #### Prioridad de Objetivos
 
-Al atacar, ya sea con Ataques de Cuerpo a Cuerpo o a Distancia, los Impactos deben asignarse según el orden de Prioridad de Objetivos:
+Al realizar un ataque, ya sea con Ataques de Cuerpo a Cuerpo o a Distancia, los Impactos deben asignarse a los Enemigos siguiendo el siguiente orden de prioridad:
 
-1. Héroe Zombi
-2. Bruto
-3. Caminante
-4. Corredor
+1. **Héroe Zombi**
+2. **Bruto**
+3. **Caminante**
+4. **Corredor**
 
-Los Impactos deben asignarse a los objetivos del primer nivel de Prioridad hasta que todos hayan sido eliminados, luego a los objetivos del siguiente nivel de Prioridad, y así sucesivamente. Si varios objetivos comparten el mismo nivel de Prioridad, los jugadores eligen los objetivos impactados entre ellos.
+<figure><img src="../.gitbook/assets/batmanzombie.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Pasos para atacar
+Los Impactos se asignan a todos los objetivos de la categoría con mayor prioridad hasta que sean eliminados, antes de proceder a la siguiente categoría. Si varios Enemigos pertenecen a la misma categoría de prioridad, los jugadores deberán acordar qué objetivos serán impactados.
 
-1. **Apuntar a una Zona**: Selecciona una Zona dentro del Alcance indicado en el Ataque (recuerda que siempre debes tener también Línea de Visión hacia tu objetivo).
-   * Puedes usar un Ataque a Distancia para apuntar a otra Zona incluso si hay Enemigos en tu Zona.
-   * Para Ataques a Distancia en Zonas Interiores, la Línea de Visión está limitada a las Zonas que comparten una abertura o dentro de la misma habitación grande (no en diagonales). La Línea de Visión para Zonas Exteriores va en línea recta paralela al borde del tablero hasta que se encuentra con una pared o el borde.
-2. **Lanzar Dados**: Lanza el número de dados indicado, más cualquier dado adicional proveniente de Rasgos Heroicos, Testigos, Habilidades o Poder gastado.
-3. **Asignar Impactos**: Asigna los Impactos obtenidos a los objetivos en la Zona atacada, siempre siguiendo el orden de Prioridad de Objetivos.
+#### Pasos para Atacar
 
-### Relanzamientos
+1. **Apuntar a una Zona**: Selecciona una Zona dentro del Alcance indicado por el Ataque. Debes tener **Línea de Visión** para atacar.
+   * Los Ataques a Distancia pueden apuntar a otra Zona, incluso si hay Enemigos en tu Zona actual.
+   * En Zonas Interiores, la Línea de Visión está limitada a las Zonas conectadas por una abertura o en la misma habitación. En Zonas Exteriores, la Línea de Visión va en línea recta hasta encontrarse con una pared o el borde del tablero.
+2. **Lanzar Dados**: Lanza el número de dados indicado en el Ataque, más cualquier dado adicional por efectos de Rasgos Heroicos, Testigos, Habilidades o Poder gastado.
+3. **Asignar Impactos**: Los Impactos obtenidos deben asignarse a los Enemigos en la Zona atacada, siguiendo siempre el orden de Prioridad de Objetivos.
 
-Los dados solo pueden relanzarse una vez por efectos de Superhéroe y solo una vez por efectos de Enemigo. En caso de que tanto los efectos del Superhéroe como del Enemigo hagan que los mismos dados se relancen, primero se aplican los relanzamientos del Enemigo, luego los del Superhéroe.
+#### Relanzamientos
+
+Los dados pueden relanzarse una vez por efectos de Superhéroes y una vez por efectos de Enemigos. Si ambos (Superhéroe y Enemigo) afectan a los mismos dados, primero se aplican los relanzamientos del Enemigo y luego los del Superhéroe.
