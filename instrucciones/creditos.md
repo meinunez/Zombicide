@@ -5,33 +5,35 @@ icon: credit-card-blank
 # Créditos
 
 **Diseño del Juego:**\
-
-
-
+Mei Heng Nuñez Sanz (propietaria), Izan Ortega García,Juan Pablo Ortola Villanueva,Ainara Pera Bañuls, Alberto Pérez Pérez de Vargas, Aidán Ruiz Bafrrios,José Andrés Salaverry Pando,Dafne Sinde Fernández-Marcote, Thomas Van Vliet Aupetit
 
 **Basado en el Diseño Original de:**\
 Carlos García, Ana Fernández, y Luis Rodríguez, con conceptos adicionales de diseño por Pablo Torres.
 
-**Desarrollo:**\
-Sofía Martínez, Joaquín Gómez, y Diego Ruiz
+**Desarrollo:**
+
+Izan Ortega García, Juan Pablo Ortola Villanueva, Ainara Pera
 
 **Productor Principal:**\
-María González
+&#x20;Mei Heng Nuñez Sanz
 
-**Productor Ejecutivo y Coordinador de Licencias:**\
-Andrés Gutiérrez
+**Productor Ejecutivo y Coordinador de Licencias:**
 
-**Producción:**\
-Daniela Flores, Alberto Méndez, Susana Blanco, Iván Vega, Patricia Carrasco, Laura Quintana, Víctor Castro, y Rosa Jiménez
+Izan Ortega García
 
-**Director de Arte:**\
+**Producción:**
+
+Izan Ortega García, Juan Pablo Ortola Villanueva, Ainara Pera Bañuls, Alberto Pérez Pérez de Vargas, Aidán Ruiz Bafrrios, José Andrés Salaverry Pando, Thomas Van Vliet Aup
+
+**Direcor de Arte:**\
 Fernando Ortega
 
 **Arte de Personajes:**\
 Claudia Rivera
 
-**Arte de Portada:**\
-Javier Sánchez
+**Arte de Portada:**
+
+Juan Pablo Ortola Villanueva
 
 **Arte Adicional:**\
 Ricardo Díaz, Marta Alemán, Pablo Fuentes, Miguel Álvarez, y Nuria Campos
@@ -57,4 +59,6 @@ David Martínez
 **Playtesters:**\
 Rafael García
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
