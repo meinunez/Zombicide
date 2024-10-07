@@ -1,5 +1,6 @@
 ---
 icon: eyes
+description: Los espectadores son personajes civiles que nos son ni zombies ni personas.
 ---
 
 # Espectadores
