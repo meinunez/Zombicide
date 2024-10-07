@@ -13,7 +13,7 @@ Cuando los Enemigos se activan, tratan a los Testigos como posibles objetivos, a
 * Los Testigos son eliminados al sufrir 1 Herida. Esto desencadena el evento "Testigo Eliminado".
 * Los Testigos no pueden ser dañados por los Superhéroes. Simplemente son ignorados por los Ataques de los Superhéroes.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="199"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/espectadoreszombie1.jpg" alt=""><figcaption></figcaption></figure>
 
 **¡TESTIGO ELIMINADO!**\
 Si un Testigo es eliminado, se retira del tablero y su carta se descarta. Esto es un duro golpe para todos los Superhéroes, ya que han fallado en su propósito principal de proteger a los inocentes. Cada Testigo que sea eliminado desencadena de inmediato ambos efectos:
@@ -27,7 +27,7 @@ Durante la Fase de Enemigos, los Testigos intentan huir de las hordas de zombis 
 * Si un Testigo tiene más de una Zona cercana con Superhéroes o más de una ruta de la misma longitud a la Zona más cercana, los jugadores deciden por dónde se mueve el Testigo.
 * Si hay Enemigos en su Zona o en la Zona adyacente a la que se movería, el Testigo no se mueve.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagenespectadores2.png" alt="" width="300"><figcaption></figcaption></figure>
 
 **TESTIGOS ESCOLTADOS**\
 Una vez que un Testigo es rescatado por un Superhéroe, se convierte en un Testigo Escoltado, otorgando varios beneficios al Superhéroe:
