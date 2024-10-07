@@ -3,7 +3,6 @@
 * [Instrucciones](README.md)
   * [Componentes del juego](instrucciones/componentes-del-juego.md)
   * [Introducción](instrucciones/introduccion.md)
-  * [Configuración](instrucciones/configuracion.md)
   * [Reseñas](instrucciones/resenas.md)
   * [Básicos](instrucciones/basicos.md)
   * [Enemigos](instrucciones/enemigos.md)
