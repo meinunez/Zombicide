@@ -2,7 +2,7 @@
 icon: '3'
 ---
 
-# Reseñas
+# Configuración y Reseñas
 
 ![RESEÑAS](https://github.com/user-attachments/assets/5a2d03df-090d-48c4-ba7f-d83c84eb6bb0)
 
